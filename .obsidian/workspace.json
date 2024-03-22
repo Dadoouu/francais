@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EL Candide.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EL Candide.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EL Candide.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EL Candide.md"
+                "file": "README.md"
               }
             }
           },
@@ -170,6 +170,8 @@
   },
   "active": "5841fab51e3729c5",
   "lastOpenFiles": [
+    "github/img/Capture d'écran 2024-03-22 195905.png",
+    "EL Candide.md",
     "PDF/EL Candide.pdf",
     "El 10 La mort d'Argan.md",
     "PDF/El 10 La mort d'Argan.pdf",
@@ -192,7 +194,6 @@
     "github/img/Capture d'écran 2024-03-22 194847.png",
     "github/img/Capture d'écran 2024-03-22 194838.png",
     "github/img/Capture d'écran 2024-03-22 194449.png",
-    "EL Candide.md",
     "github/img/Capture d'écran 2024-03-22 192435.png",
     "github/img/Capture d'écran 2024-03-22 192824.png",
     "github/img/Capture d'écran 2024-03-22 192720.png",
@@ -200,7 +201,6 @@
     "github/img/Capture d'écran 2024-03-22 192345.png",
     "github/img/Capture d'écran 2024-03-22 192245.png",
     "github/img/github-desktop-1024x576.jpg",
-    "github/img",
     "Template/cour.md",
     "Template/cour francais.md",
     "Welcome.md"
