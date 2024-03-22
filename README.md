@@ -40,6 +40,8 @@ Clique sur "URL" et insère "https://github.com/Dadoouu/francais/tree/main".
 
 Activer les plugins complémentaire
 
+![aa](https://raw.githubusercontent.com/Dadoouu/francais/main/github/img/Capture%20d'%C3%A9cran%202024-03-22%20195905.png)
+
 Ouvre les paramètres puis clique sur Obsidian Git, insère le nom dans la partie "Author".
 
 ![a](https://raw.githubusercontent.com/Dadoouu/francais/main/github/img/Capture%20d'%C3%A9cran%202024-03-22%20192720.png)
