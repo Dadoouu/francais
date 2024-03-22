@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "73b7e7811158481a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4ef265df82d3831",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7b439878e5b2ad9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "El 6 Perfide Manon.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e763f24a05d6f98",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ec1dcc8c44dce63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52782cb91b679708",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4bba9ed4d6ec00b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "050b81da6ac83155",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "53a98dc6ddf3cebc",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bc9464a638db488",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a068f9a99f0255b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "El 6 Perfide Manon.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d3ae6d148d0e89c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "El 6 Perfide Manon.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29413fa004d45081",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5a10438b09500a67",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "El 6 Perfide Manon.md"
+              }
+            }
+          },
+          {
+            "id": "cf178cb46ad098a4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "f7b439878e5b2ad9",
+  "lastOpenFiles": [
+    "El 6 Perfide Manon.md",
+    "Sans titre.md",
+    "Template/cour.md",
+    "Template/cour francais.md",
+    "Template",
+    "fran-ais",
+    "Welcome.md"
+  ]
+}
