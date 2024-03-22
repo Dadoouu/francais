@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "El 2 Postambule DDFC.md",
+                "file": "EL Candide.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "El 2 Postambule DDFC.md",
+                "file": "EL Candide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "El 2 Postambule DDFC.md",
+                "file": "EL Candide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "El 2 Postambule DDFC.md"
+                "file": "EL Candide.md"
               }
             }
           },
@@ -170,6 +170,20 @@
   },
   "active": "5841fab51e3729c5",
   "lastOpenFiles": [
+    "PDF/EL Candide.pdf",
+    "El 10 La mort d'Argan.md",
+    "PDF/El 10 La mort d'Argan.pdf",
+    "EL 9 Le Malade Imaginaire Sc1 Act1.md",
+    "PDF/EL 9 Le Malade Imaginaire Sc1 Act1.pdf",
+    "El 8 Carmen de mérimée.md",
+    "PDF/El 8 Carmen de mérimée.pdf",
+    "El 7 La mort de Manon.md",
+    "PDF/El 7 La mort de Manon.pdf",
+    "El 6 Perfide Manon.md",
+    "PDF/El 6 Perfide Manon.pdf",
+    "EL 2 Préambule DDFC.md",
+    "PDF/EL 2 Préambule DDFC.pdf",
+    "El 2 Postambule DDFC.md",
     "PDF/El 2 Postambule DDFC.pdf",
     "EL 1 Olympe de Gouges.md",
     "PDF/EL 1 Olympe de Gouges.pdf",
@@ -178,14 +192,7 @@
     "github/img/Capture d'écran 2024-03-22 194847.png",
     "github/img/Capture d'écran 2024-03-22 194838.png",
     "github/img/Capture d'écran 2024-03-22 194449.png",
-    "El 6 Perfide Manon.md",
-    "EL 9 Le Malade Imaginaire Sc1 Act1.md",
-    "El 10 La mort d'Argan.md",
-    "El 8 Carmen de mérimée.md",
-    "El 7 La mort de Manon.md",
     "EL Candide.md",
-    "El 2 Postambule DDFC.md",
-    "EL 2 Préambule DDFC.md",
     "github/img/Capture d'écran 2024-03-22 192435.png",
     "github/img/Capture d'écran 2024-03-22 192824.png",
     "github/img/Capture d'écran 2024-03-22 192720.png",
@@ -194,12 +201,8 @@
     "github/img/Capture d'écran 2024-03-22 192245.png",
     "github/img/github-desktop-1024x576.jpg",
     "github/img",
-    "github",
-    "Nouveau dossier",
     "Template/cour.md",
     "Template/cour francais.md",
-    "Template",
-    "fran-ais",
     "Welcome.md"
   ]
 }
