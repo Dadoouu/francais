@@ -2,7 +2,7 @@
 
 Allez et installez [Git](https://git-scm.com/).
 
-![[git-1024x576.jpg]]
+![aa](https://raw.githubusercontent.com/Dadoouu/francais/main/github/img/git-1024x576.jpg?token=GHSAT0AAAAAACOFD5TLMQAVAPRU2DU6VESEZP5ZMJQ)
 
 ### Installer GitHub Desktop
 
