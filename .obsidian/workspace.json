@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5841fab51e3729c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "El 6 Perfide Manon.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "El 6 Perfide Manon.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "El 6 Perfide Manon.md"
+                "file": "README.md"
               }
             }
           },
@@ -155,10 +168,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7b439878e5b2ad9",
+  "active": "5841fab51e3729c5",
   "lastOpenFiles": [
     "El 6 Perfide Manon.md",
-    "Sans titre.md",
+    "README.md",
     "Template/cour.md",
     "Template/cour francais.md",
     "Template",
