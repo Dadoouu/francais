@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "El 6 Perfide Manon.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "El 6 Perfide Manon.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "El 6 Perfide Manon.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "El 6 Perfide Manon.md"
+                "file": "README.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "5841fab51e3729c5",
   "lastOpenFiles": [
+    "El 6 Perfide Manon.md",
     "github/img/Capture d'écran 2024-03-22 192435.png",
     "github/img/Capture d'écran 2024-03-22 192824.png",
     "README.md",
@@ -182,7 +183,6 @@
     "github/img",
     "github",
     "Nouveau dossier",
-    "El 6 Perfide Manon.md",
     "Template/cour.md",
     "Template/cour francais.md",
     "Template",
