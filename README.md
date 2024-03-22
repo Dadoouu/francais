@@ -46,3 +46,18 @@ Ouvre les paramètres puis clique sur Obsidian Git, insère le nom dans la parti
 
 Chaque fois que tu modifies quelque chose, effectue un "commit". Lorsque tu as fini de modifier un fichier, effectue un "push" pour envoyer le commit. Ensuite, recommence le processus en effectuant un nouveau commit.
 ![aa](https://raw.githubusercontent.com/Dadoouu/francais/main/github/img/Capture%20d'%C3%A9cran%202024-03-22%20192824.png)
+### Pour ajoute des lecture linéaire
+
+Créer un nouveaux fichier puis faire alt+e
+
+Clique sur cour français
+
+### Pour souligner/surligner le texte
+
+Sélectionner le texte puis faire ctrl+p
+
+Puis tape "highlightr" pour surligner ou "style" pour ajouter des effet sur le texte
+
+
+
+

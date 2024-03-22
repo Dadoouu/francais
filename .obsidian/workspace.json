@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "El 10 La mort d'Argan.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "El 10 La mort d'Argan.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "El 10 La mort d'Argan.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "El 10 La mort d'Argan.md"
+                "file": "README.md"
               }
             }
           },
@@ -170,16 +170,19 @@
   },
   "active": "5841fab51e3729c5",
   "lastOpenFiles": [
-    "README.md",
-    "El 10 La mort d'Argan.md",
+    "github/img/Capture d'écran 2024-03-22 194847.png",
+    "github/img/Capture d'écran 2024-03-22 194838.png",
+    "github/img/Capture d'écran 2024-03-22 194449.png",
+    "El 6 Perfide Manon.md",
     "EL 9 Le Malade Imaginaire Sc1 Act1.md",
+    "El 10 La mort d'Argan.md",
+    "README.md",
     "El 8 Carmen de mérimée.md",
     "El 7 La mort de Manon.md",
     "EL Candide.md",
     "El 2 Postambule DDFC.md",
     "EL 1 Olympe de Gouges.md",
     "EL 2 Préambule DDFC.md",
-    "El 6 Perfide Manon.md",
     "github/img/Capture d'écran 2024-03-22 192435.png",
     "github/img/Capture d'écran 2024-03-22 192824.png",
     "github/img/Capture d'écran 2024-03-22 192720.png",
