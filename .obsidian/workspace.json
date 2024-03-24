@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d4ef265df82d3831",
+        "id": "df6a6af517072d8b",
         "type": "tabs",
         "children": [
           {
-            "id": "f7b439878e5b2ad9",
+            "id": "5d843303f492b0f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "El 6 Perfide Manon.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5841fab51e3729c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "El 10 La mort d'Argan.md",
+                "file": "EL 1 Olympe de Gouges.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7fb89e6a8cdc4952",
+            "id": "26755440471fe111",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Olympe de Gouge.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Olympe de Gouge.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Olympe de Gouge.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Olympe de Gouge.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -181,11 +169,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7fb89e6a8cdc4952",
+  "active": "26755440471fe111",
   "lastOpenFiles": [
-    "L'Abbé Prévost.md",
     "EL 1 Olympe de Gouges.md",
-    "Olympe de Gouge.md",
+    "EL 2 Préambule DDFC.md",
+    "Olympe de Gouges.md",
+    "conflict-files-obsidian-git.md",
+    "L'Abbé Prévost.md",
     "El 8 Carmen de mérimée.md",
     "El 7 La mort de Manon.md",
     "EL 9 Le Malade Imaginaire Sc1 Act1.md",
@@ -194,7 +184,6 @@
     "El 10 La mort d'Argan.md",
     "El 6 Perfide Manon.md",
     "El 3 Postambule DDFC.md",
-    "EL 2 Préambule DDFC.md",
     "PDF/El 3 Postambule DDFC.pdf",
     "README.md",
     "github/img/Capture d'écran 2024-03-22 195905.png",
