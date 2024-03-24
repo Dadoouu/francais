@@ -6,15 +6,21 @@
 
 ==N’exigez point de moi== que je vous décrive mes sentiments, ==ni== que je vous rapporte <mark style="background: #FFB8EBA6;">ses dernières expressions</mark>. <mark style="background: #FF5582A6;">Je la perdis</mark> ; je reçus d’elle <mark style="background: #FFB8EBA6;">des marques d’amour</mark> au <mark style="background: #FFB86CA6;">moment même qu’elle expirait</mark>. <mark style="background: #FFF3A3A6;">C’est tout</mark> ce que j’ai la force de vous apprendre de ce <mark style="background: #ABF7F7A6;">fatal et déplorable</mark> événement. <mark style="background: #BBFABBA6;">Mon âme <strong>ne</strong> suivit <strong>pas</strong> la sienne.</mark> <mark style="background: #ADCCFFA6;">Le Ciel</mark> ne me trouva point, sans doute, assez rigoureusement puni. <mark style="background: #D2B3FFA6;">Il</mark> a voulu que j’aie traîné, depuis, une vie <mark style="background: #CACFD9A6;">languissante et misérable</mark>. Je renonce *volontairement* à la mener jamais plus heureuse.
 
-### Plan
+## Plan
 
-Mouvement 1 L1-L4: L'annonce du malheur attendu
-Mouvement 2 L5-L13: Le récit des dernier instant
-Mouvement 3 L13-fin: Le récit impossible et le désespoir de Des Grieux
+- [[#Introduction|Introduction]]
+- [[#Mouvement 1: L'annonce du malheur attendu (l.1-4)|Mouvement 1: L'annonce du malheur attendu (l.1-4)]]
+- [[#Mouvement 2: Le récit des dernier instant (l.5-13)|Mouvement 2: Le récit des dernier instant (l.5-13)]]
+- [[#Mouvement 3: Le récit impossible et le désespoir de Des Grieux (l.13-fin)|Mouvement 3: Le récit impossible et le désespoir de Des Grieux (l.13-fin)]]
 
-Problématique: En quoi cette scène pathétique achève-t-elle le récit de Des Grieux et annonce-t-elle la fin du roman
 
-#### Mouvement 1
+**Problématique:** En quoi cette scène pathétique achève-t-elle le récit de Des Grieux et annonce-t-elle la fin du roman
+
+### Introduction
+
+L'abbé Prévost (1697-1763), écrivain français du XVIIIe siècle, connu pour ses romans libertins empreints de réalisme, nous offre avec Manon Lescaut (1731) un chef-d'œuvre de la littérature classique. Cette œuvre raconte l'histoire tragique des amours tumultueuses entre le Chevalier Des Grieux, jeune homme de bonne famille, et Manon Lescaut, une courtisane d'une grande beauté. L'extrait choisi se situe à la fin du roman, relatant les derniers instants de Manon sur son lit de mort. Dès les premières lignes, le narrateur annonce le malheur attendu (l.1-4), avant d'entamer le récit poignant des dernières paroles de l'héroïne (l.5-13), menant au désespoir de Des Grieux face à l'impossibilité de poursuivre son récit (l.13-fin). En quoi cette scène pathétique achève-t-elle le récit de Des Grieux et annonce-t-elle la fin du roman? Nous verrons d'abord comment le narrateur prépare le lecteur au tragique dénouement (Mouvement 1 l.1-4), puis comment il relate les adieux déchirants de Manon (Mouvement 2 l.5-13), avant d'analyser l'impuissance narrative de Des Grieux face à cette perte insoutenable (Mouvement 3 l.13-fin).
+
+### Mouvement 1: L'annonce du malheur attendu (l.1-4)
 
 | Citation                                                                                        | Procédé | Interprétation |
 | ----------------------------------------------------------------------------------------------- | ------- | -------------- |
@@ -28,7 +34,7 @@ Problématique: En quoi cette scène pathétique achève-t-elle le récit de Des
 
 **Conclusion mouvement 1:** Dans ce 1er mouvement l'auteur montre que D.G vas devoir souffrir toute sa vie et annonce sans le dire la mort de Manon. Il est partager entre la nécessité et la douleur de le faire.
 
-#### Mouvement 2
+### Mouvement 2: Le récit des dernier instant (l.5-13)
 
 | Citation                                                                        | Procédé                                       | Interprétation                                                                                   |
 | ------------------------------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -49,7 +55,7 @@ Problématique: En quoi cette scène pathétique achève-t-elle le récit de Des
 | **la fin de ses malheurs approchait**                                           | Euphémisme, périphrase                        | Permet d'atténuer la douleur, périphrase pour dire qu'elle crève                                 |
 **Mouvement 3:** Le mouvement a une dimension pathétique, la douleur de D.G étant indicible. Le mouvement a 2 partie, D.G est dans le déni de la mort de Manon mais fini par l'accepter.
 
-#### Mouvement 3
+### Mouvement 3: Le récit impossible et le désespoir de Des Grieux (l.13-fin)
 
 | Citation | Procédé | Interprétation |
 | ---- | ---- | ---- |
