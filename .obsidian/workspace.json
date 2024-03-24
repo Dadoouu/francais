@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EL 1 Olympe de Gouges.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26755440471fe111",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Olympe de Gouges.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Olympe de Gouges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Olympe de Gouges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Olympe de Gouges.md"
               }
             }
           },
@@ -169,12 +156,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "26755440471fe111",
+  "active": "5d843303f492b0f4",
   "lastOpenFiles": [
     "EL 1 Olympe de Gouges.md",
+    "conflict-files-obsidian-git.md",
     "EL 2 Préambule DDFC.md",
     "Olympe de Gouges.md",
-    "conflict-files-obsidian-git.md",
     "L'Abbé Prévost.md",
     "El 8 Carmen de mérimée.md",
     "El 7 La mort de Manon.md",
