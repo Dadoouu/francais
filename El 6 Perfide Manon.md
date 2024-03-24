@@ -18,17 +18,21 @@ Elle me dit <mark style="background: #FFB8EBA6;">d’un ton timide</mark> qu’<
 
 <mark style="background: #FFCC80;"><span style="  border-bottom: 1px solid #000;   padding-bottom: 0.5px;   margin-bottom: 10px;">À peine</span> eus-je achevé ces derniers mots, <span style="  border-bottom: 1px solid #000;   padding-bottom: 0.5px;   margin-bottom: 10px;">qu’</span>elle se leva avec transport pour venir m’embrasser.</mark> <mark style="background: #FFA07A;">Elle m’<strong>accabla</strong> de mille caresses passionnées.</mark> <mark style="background: #FFE4E1;">Elle m’appela par <span style="  border-bottom: 1px solid #000;   padding-bottom: 0.5px;   margin-bottom: 10px;">tous les noms que l’amour invente</span> pour exprimer <span style="  border-bottom: 1px solid #000;   padding-bottom: 0.5px;   margin-bottom: 10px;">ses plus vives tendresses.</span></mark> <mark style="background: #FF6347;">Je n’y répondais encore qu’avec <strong>langueur</strong>.</mark> <mark style="background: #F08080;">Quel passage, en effet, de la situation tranquille où j’avais été, aux mouvements <strong>tumultueux</strong> que je sentais renaître !</mark> J’en étais **épouvanté**. Je **frémissais**, <mark style="background: #FF5582A6;">comme il arrive lorsqu’on se trouve la nuit dans une campagne écartée</mark> : <mark style="background: #40E0D0;">on se croit transporté dans un nouvel ordre de choses ; on y est saisi d’une <strong>horreur</strong> secrète dont on ne se remet qu’après avoir considéré longtemps tous les environs.</mark>
 
-### Plan
+## Plan
 
-- [[#Mouvement 1: Le retour de Manon|Mouvement 1: Le retour de Manon]]
-- [[#Mouvement 2: Manon, une amoureuse trop bavarde?|Mouvement 2: Manon, une amoureuse trop bavarde?]]
-- [[#Mouvement 3: La rechute passionnelle de Des Grieux|Mouvement 3: La rechute passionnelle de Des Grieux]]
-- [[#Mouvement 4: Les retrouvailles|Mouvement 4: Les retrouvailles]]
+- [[#Introduction|Introduction]]
+- [[#Mouvement 1: Le retour de Manon (l.1-4)|Mouvement 1: Le retour de Manon (l.1-4)]]
+- [[#Mouvement 2: Manon, une amoureuse trop bavarde? (l.4-8)|Mouvement 2: Manon, une amoureuse trop bavarde? (l.4-8)]]
+- [[#Mouvement 3: La rechute passionnelle de Des Grieux (l.9-18)|Mouvement 3: La rechute passionnelle de Des Grieux (l.9-18)]]
+- [[#Mouvement 4: Les retrouvailles (l.18-fin)|Mouvement 4: Les retrouvailles (l.18-fin)]]
 
 **Problématique:** Comment l'Abbé Prévost, dans cette scène de retrouvaille fait-il de Manon un personnage manipulateur?
 
-### Mouvement 1: Le retour de Manon (l.1-4)
+### Introduction
 
+L'abbé Prévost (1697-1763), écrivain français du XVIIIe siècle, connu pour ses romans libertins empreints de réalisme, nous offre avec Manon Lescaut (1731) un chef-d'œuvre de la littérature classique. Cette œuvre raconte l'histoire tragique des amours tumultueuses entre le Chevalier Des Grieux, jeune homme de bonne famille, et Manon Lescaut, une courtisane d'une grande beauté. L'extrait choisi se situe au début du roman, après une première séparation des amants, où Manon vient de retrouver Des Grieux. Dès les premières lignes, on perçoit les manipulations de Manon pour reconquérir son amant, soulevant la problématique de son personnage séducteur mais intéressé. Comment l'Abbé Prévost, dans cette scène de retrouvailles, fait-il de Manon un personnage manipulateur? Pour répondre à cette question, nous analyserons d'abord son retour plein de tendresse feinte (l.1-4), puis son bavardage trompeur (l.4-8), ensuite la rechute émotionnelle de Des Grieux (l.9-18), et enfin leurs retrouvailles équivoques (l.18-fin).
+
+### Mouvement 1: Le retour de Manon (l.1-4)
 
 | Citation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Procédés                                                                                                                                                                                                                              | Interprétation                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |

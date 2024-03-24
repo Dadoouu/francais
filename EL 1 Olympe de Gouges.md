@@ -21,7 +21,15 @@ Le texte en question, situé entre la lettre à la Reine Marie-Antoinette et le 
 **Projet de lecture:**
 Analyser comment Olympe de Gouges utilise le modèle de la nature pour combattre l'inégalité des sexes.
 
-**Intro**
+## Plan
+
+- [[#Introduction|Introduction]]
+- [[#1er Paragraphe: Une vive interpellation|1er Paragraphe: Une vive interpellation]]
+- [[#2eme Paragraphe: La loi de la nature|2eme Paragraphe: La loi de la nature]]
+- [[#3eme Paragraphe: La loi dégénérée des homme|3eme Paragraphe: La loi dégénérée des homme]]
+
+### Introduction
+
 Au cœur des bouleversements sociopolitiques de la fin du XVIIIe siècle, émerge une voix audacieuse et visionnaire : celle d'Olympe de Gouges. Née en 1748 à Montauban, cette femme de lettres s'inscrit dans le mouvement des Lumières, déployant ses talents pour influencer les débats brûlants de son époque. Reconnue comme une figure pionnière du féminisme, elle s'engage passionnément dans la lutte pour l'égalité des sexes, marquant l'histoire par son œuvre emblématique : la Déclaration des droits de la femme et de la citoyenne. Dans cette réécriture audacieuse de la Déclaration des droits de l'homme et du citoyen de 1789, elle proclame haut et fort l'égalité des droits entre hommes et femmes. Au cœur de cette réflexion novatrice, un texte particulier attire notre attention, situé entre sa lettre à la Reine Marie-Antoinette et le préambule. Ce passage interpelle directement les hommes, les invitant à reconnaître les injustices infligées aux femmes et à embrasser l'impératif de l'égalité. Ce texte nous permet d'explorer comment Olympe de Gouges déploie le modèle de la nature pour dénoncer et combattre les inégalités de genre, nous invitant à revisiter notre compréhension des relations entre les sexes à travers le prisme de son éclairage révolutionnaire.
 
 ### 1er Paragraphe: Une vive interpellation 
