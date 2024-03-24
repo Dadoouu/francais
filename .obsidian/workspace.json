@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "df6a6af517072d8b",
+        "id": "d4ef265df82d3831",
         "type": "tabs",
         "children": [
           {
-            "id": "5d843303f492b0f4",
+            "id": "f7b439878e5b2ad9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EL 1 Olympe de Gouges.md",
-                "mode": "source",
+                "file": "El 6 Perfide Manon.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "26755440471fe111",
+            "id": "5841fab51e3729c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "El 3 Postambule DDFC.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "El 3 Postambule DDFC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "El 3 Postambule DDFC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "El 3 Postambule DDFC.md"
               }
             }
           },
@@ -160,30 +160,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "26755440471fe111",
+  "active": "5841fab51e3729c5",
   "lastOpenFiles": [
-    "EL 1 Olympe de Gouges.md",
-    "EL 2 Préambule DDFC.md",
     "Olympe de Gouges.md",
-    "conflict-files-obsidian-git.md",
     "L'Abbé Prévost.md",
+    "fichier à la con.md",
+    "conflict-files-obsidian-git.md",
+    "El 3 Postambule DDFC.md",
+    "EL 4 Candide.md",
+    "EL Candide.md",
+    "El 10 La mort d'Argan.md",
+    "EL 9 Le Malade Imaginaire Sc1 Act1.md",
     "El 8 Carmen de mérimée.md",
     "El 7 La mort de Manon.md",
-    "EL 9 Le Malade Imaginaire Sc1 Act1.md",
-    "EL 4 Candide.md",
-    "fichier à la con.md",
-    "El 10 La mort d'Argan.md",
     "El 6 Perfide Manon.md",
-    "El 3 Postambule DDFC.md",
+    "EL 2 Préambule DDFC.md",
+    "EL 1 Olympe de Gouges.md",
     "PDF/El 3 Postambule DDFC.pdf",
     "README.md",
     "github/img/Capture d'écran 2024-03-22 195905.png",
