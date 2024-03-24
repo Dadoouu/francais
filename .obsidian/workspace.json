@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Olympe de Gouges.md",
+                "file": "L'Abbé Prévost.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68088c076de53b00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EL 9 Le Malade Imaginaire Sc1 Act1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Olympe de Gouges.md",
+                "file": "EL 9 Le Malade Imaginaire Sc1 Act1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Olympe de Gouges.md",
+                "file": "EL 9 Le Malade Imaginaire Sc1 Act1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Olympe de Gouges.md"
+                "file": "EL 9 Le Malade Imaginaire Sc1 Act1.md"
               }
             }
           },
@@ -156,20 +169,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5d843303f492b0f4",
+  "active": "68088c076de53b00",
   "lastOpenFiles": [
-    "EL 1 Olympe de Gouges.md",
-    "conflict-files-obsidian-git.md",
-    "EL 2 Préambule DDFC.md",
-    "Olympe de Gouges.md",
-    "L'Abbé Prévost.md",
     "El 8 Carmen de mérimée.md",
-    "El 7 La mort de Manon.md",
-    "EL 9 Le Malade Imaginaire Sc1 Act1.md",
     "EL 4 Candide.md",
-    "fichier à la con.md",
-    "El 10 La mort d'Argan.md",
+    "Molière.md",
+    "L'Abbé Prévost.md",
+    "EL 9 Le Malade Imaginaire Sc1 Act1.md",
+    "Olympe de Gouges.md",
     "El 6 Perfide Manon.md",
+    "El 10 La mort d'Argan.md",
+    "EL 1 Olympe de Gouges.md",
+    "EL 2 Préambule DDFC.md",
+    "conflict-files-obsidian-git.md",
+    "El 7 La mort de Manon.md",
+    "fichier à la con.md",
     "El 3 Postambule DDFC.md",
     "PDF/El 3 Postambule DDFC.pdf",
     "README.md",
