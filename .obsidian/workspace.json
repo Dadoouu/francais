@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fichier à la con.md",
+                "file": "EL 4 Candide.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fichier à la con.md",
+                "file": "EL 4 Candide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fichier à la con.md",
+                "file": "EL 4 Candide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fichier à la con.md"
+                "file": "EL 4 Candide.md"
               }
             }
           },
@@ -183,9 +183,9 @@
   },
   "active": "7fb89e6a8cdc4952",
   "lastOpenFiles": [
-    "El 10 La mort d'Argan.md",
     "fichier à la con.md",
-    "EL Candide.md",
+    "El 10 La mort d'Argan.md",
+    "EL 4 Candide.md",
     "EL 9 Le Malade Imaginaire Sc1 Act1.md",
     "El 8 Carmen de mérimée.md",
     "El 7 La mort de Manon.md",
