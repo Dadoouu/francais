@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EL 1 Olympe de Gouges.md",
+                "file": "Olympe de Gouge.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EL 1 Olympe de Gouges.md",
+                "file": "Olympe de Gouge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EL 1 Olympe de Gouges.md",
+                "file": "Olympe de Gouge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EL 1 Olympe de Gouges.md"
+                "file": "Olympe de Gouge.md"
               }
             }
           },
@@ -184,6 +184,7 @@
   "active": "7fb89e6a8cdc4952",
   "lastOpenFiles": [
     "L'Abbé Prévost.md",
+    "EL 1 Olympe de Gouges.md",
     "Olympe de Gouge.md",
     "El 8 Carmen de mérimée.md",
     "El 7 La mort de Manon.md",
@@ -194,7 +195,6 @@
     "El 6 Perfide Manon.md",
     "El 3 Postambule DDFC.md",
     "EL 2 Préambule DDFC.md",
-    "EL 1 Olympe de Gouges.md",
     "PDF/El 3 Postambule DDFC.pdf",
     "README.md",
     "github/img/Capture d'écran 2024-03-22 195905.png",
