@@ -16,11 +16,15 @@ En approchant de la ville, ils rencontrèrent un nègre <mark style="background:
 
 ## Plan
 
+- [[#Introduction|Introduction]]
 - [[#Mouvement 1:  La condition physique|Mouvement 1:  La condition physique]]
 - [[#Mouvement 2: Misère intellectuelle|Mouvement 2: Misère intellectuelle]]
 - [[#Mouvement 3: La dénonciation des organisation|Mouvement 3: La dénonciation des organisation]]
 - [[#Conclusion générale|Conclusion générale]]
 
+### Introduction
+
+Voltaire (1694-1778), philosophe des Lumières et fervent critique de l'ordre établi, publie en 1759 le conte philosophique Candide ou l'Optimisme. Ce récit satirique relate les mésaventures du jeune Candide, élevé dans la croyance naïve que tout est pour le mieux dans le meilleur des mondes possibles. L'extrait donné décrit la misérable condition à laquelle Candide est réduit sur le radeau qui le mène à Lisbonne après son expulsion. Dès les premiers mots, ses souffrances physiques sont exposées (Mouvement 1), auxquelles s'ajoute son dénuement intellectuel (Mouvement 2), Voltaire profitant de cette situation pour dénoncer les organismes censés venir en aide aux démunis (Mouvement 3). En quoi ce tableau accablant prépare-t-il la remise en cause du dogme de l'optimisme? Nous verrons d'abord que les épreuves corporelles de Candide mettent à mal son insouciance initiale (Mouvement 1), que son absence totale de repères intellectuels ébranle ses certitudes (Mouvement 2), avant que l'auteur ne dénonce vertement l'indifférence des institutions face à cette grande détresse (Mouvement 3).
 
 ### Mouvement 1:  La condition physique
 
