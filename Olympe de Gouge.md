@@ -1,0 +1,6 @@
+#### Contextualisation auteur :
+Olympe de Gouges, de son crai nom Marie Gouze, naît en 1748 à Monteauban et meurt à la guillotine en 1793 à Paris. C'est une autrice multidisciplinaire qui prit part activement au débat sociaux et politique de l'époque des lumières. Elle est considérée comme l'une des pionnières du féminisme.
+#### Contextualisation œuvre :
+Olympe de Gouges à notamment rédigé la Déclaration des Droits de la Femme et de la Citoyenne, un pastiche de la Déclaration des Droits de l'Homme et du Citoyen de 1789, dans lequel elle affirme l'égalité des droits civils et politiques des deux sexes.
+
+Le 18ème siècle est le siècle des philosophes des Lumières et de la Révolution française, qui met provisoirement fin au régime de la royauté. Les philosophes des Lumières luttent contre l'obscurantisme dans les domaines de la morale, de la politique et de la persécution. Ils œuvrent pour la liberté de conscience, d'expression et défendent des valeurs d'humanité, d'égalité et de fraternité.
