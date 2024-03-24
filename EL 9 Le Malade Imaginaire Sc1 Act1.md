@@ -9,7 +9,7 @@ Allons, qu’on m’ôte tout ceci. <mark style="background: #FFB8EBA6;">Il n�
 1er mouvement: Les compte d'Argan
 2eme mouvement: Un vieillard acariâtre
 
-### 1er Mouvement 
+### 1er Mouvement: Les compte d'Argan
 
 | Citation                                                                                                  | Procédés                                                                                   | Interpretation                                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ Allons, qu’on m’ôte tout ceci. <mark style="background: #FFB8EBA6;">Il n�
 **Conclusion:**
 Longue tirade, mais un passage comique, une véritable mise en scène théâtral puisqu'on a Argan seul sur scène qui donne la voix a Mr Purgon et Mr Fleurant, dans un dialogue fictif
 
-### 2eme mouvement 
+### 2eme mouvement: Un vieillard acariâtre
 
 | Citation | Procédés | Interpretation |
 | ---- | ---- | ---- |

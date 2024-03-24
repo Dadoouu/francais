@@ -23,16 +23,21 @@ Cette scène ce situe dans l'acte 2 de la scène 5, juste après que Cléante se
 
 Molière, de son vrai nom Jean-Baptiste Poquelin, était un dramaturge et comédien français du 17ème siècle, né en 1622 et décédé en 1673. Il est célèbre pour ses comédies satiriques qui critiquaient les travers de la société de son époque, en particulier la noblesse et le clergé. Molière a vécu à une époque marquée par des bouleversements politiques, sociaux et culturels en France, notamment le règne de Louis XIV, l'émergence du classicisme littéraire, ainsi que les tensions entre la tradition religieuse et les idées nouvelles des Lumières.
 
-### Plan 
+## Plan 
 
-Mouvement 1: Rencontre et quiproquo
-Mouvement 2: Le compliment à Angélique 
-Mouvement 3: La réaction des autre personnage
+- [[#Introduction|Introduction]]
+- [[#Mouvement 1: Rencontre et quiproquo|Mouvement 1: Rencontre et quiproquo]]
+- [[#Mouvement 2: Le compliment à Angélique|Mouvement 2: Le compliment à Angélique]]
+- [[#Mouvement 3: La réaction des autre personnage|Mouvement 3: La réaction des autre personnage]]
 
-Problématique: Comment Thomas DIAFOIRUS fait-il l'objet d'une double dénionciation
-### Analyse
 
-###### Mouvement 1
+**Problématique:** Comment Thomas DIAFOIRUS fait-il l'objet d'une double dénionciation
+
+### Introduction
+
+Molière (1622-1673), dramaturge majeur du XVIIe siècle, nous livre avec Le Malade Imaginaire (1673) une satire mordante de la médecine et des faux savants de son époque. Cette dernière pièce, restée inachevée à la mort de son auteur, met en scène le riche Argan, un hypocondriaque obsédé par les remèdes et les saignées. L'extrait proposé se situe au début de l'acte II, lors de la rencontre entre Angélique, la fille d'Argan, et Thomas Diafoirus, le neveu du médecin que son père veut lui faire épouser. Dès les premières répliques, un quiproquo s'installe (Mouvement 1), suivi d'un étrange compliment de Thomas envers Angélique (Mouvement 2), provoquant les réactions circonspectes des autres personnages (Mouvement 3). Comment Thomas Diafoirus fait-il alors l'objet d'une double dénonciation ? Nous verrons d'abord que son arrivée crée une situation comique de méprise (Mouvement 1), puis que son discours ampoulé le rend risible (Mouvement 2), avant d'analyser la critique dont il est la cible, à la fois du point de vue social et médical (Mouvement 3).
+
+### Mouvement 1: Rencontre et quiproquo
 
 | Citation                                                                                 | Procédés                                                 | Interprétation                                                              |
 | ---------------------------------------------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------------------------- |
@@ -43,7 +48,7 @@ Problématique: Comment Thomas DIAFOIRUS fait-il l'objet d'une double dénioncia
 | <mark style="background: #FFF3A3A6;">Attendrai-je, mon père, qu'elle soit venue ?</mark> |                                                          | Débile, il demande si il doit dire le compliment avec ou sans la belle mère |
 **Conclusion mouvement 1:** Dans ce premier mouvement, Molière mais en scène Thomas DIAFOIRUS comme étant débile, impolie et ayant toujours besoin de l'approbation de son père
 
-###### Mouvement 2
+### Mouvement 2: Le compliment à Angélique 
 
 
 | Citation                                                                        | Procédés                                           | Interprétation                                                       |
@@ -57,7 +62,7 @@ Problématique: Comment Thomas DIAFOIRUS fait-il l'objet d'une double dénioncia
 | <mark style="background: #D2B3FFA6;">héliotrope</mark>                          | Lexique scientifique                               | Cherche des mots compliqué, étale sont savoir pour impréssioné       |
 **Conclusion 2eme mouvement:** Critique de la médecine, Molière ridiculise Thomas DIAFOIRUS à travers l'emplois obséquieux de terme pseudo scientifique et de référence diverse. Le pédantisme dégagé dans le propos de Thomas contient une satire virulente des médecin qui cache leur incompétence sous un verbiage pseudo scientifique.
 
-###### Mouvement 3
+### Mouvement 3: La réaction des autre personnage
 
 | Citation                                                                                     | Procédés                    | Interprétation                                                                  |
 | -------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------- |
