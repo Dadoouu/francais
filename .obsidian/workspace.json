@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EL Candide.md",
+                "file": "El 8 Carmen de mérimée.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EL Candide.md",
+                "file": "El 8 Carmen de mérimée.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EL Candide.md",
+                "file": "El 8 Carmen de mérimée.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EL Candide.md"
+                "file": "El 8 Carmen de mérimée.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "5841fab51e3729c5",
   "lastOpenFiles": [
+    "EL Candide.md",
     "El 10 La mort d'Argan.md",
     "EL 9 Le Malade Imaginaire Sc1 Act1.md",
     "El 8 Carmen de mérimée.md",
@@ -178,7 +179,6 @@
     "El 6 Perfide Manon.md",
     "El 2 Postambule DDFC.md",
     "EL 1 Olympe de Gouges.md",
-    "EL Candide.md",
     "EL 3 Préambule DDFC.md",
     "README.md",
     "github/img/Capture d'écran 2024-03-22 195905.png",

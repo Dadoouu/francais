@@ -12,9 +12,21 @@ Elle avait un <mark style="background: #FFB8EBA6;">jupon</mark> <mark style="bac
 
 Et prenant la fleur de cassie qu’elle avait à la bouche, <mark style="background: #FFB8EBA6;">elle me la lança, d’un mouvement du pouce, juste entre les deux yeux.</mark> Monsieur, <mark style="background: #FFB8EBA6;">cela me fit l’effet d’une balle</mark> qui m’arrivait… <mark style="background: #FF5582A6;">Je ne savais où me fourrer, je demeurais immobile comme une planche.</mark> Quand elle fut entrée dans la manufacture, <mark style="background: #FFB86CA6;">je vis la fleur </mark>de cassie qui était tombée à terre entre mes pieds ; <mark style="background: #FF5582A6;">je ne sais ce qui me prit</mark>, mais <mark style="background: #FFB86CA6;">je la ramassai</mark> sans que mes camarades s’en aperçussent et <mark style="background: #FFB86CA6;">je la mis</mark> **précieusement** dans ma veste. ==Première sottise !==
 
-### Analyze
+## Plan
 
-#### Mouvement 1
+- [[#Introduction|Introduction]]
+- [[#Mouvement 1: L'apparition de Carmen (l.1-3)|Mouvement 1: L'apparition de Carmen (l.1-3)]]
+- [[#Mouvement 2: Le portrait d'une tentatrice (l.4-11)|Mouvement 2: Le portrait d'une tentatrice (l.4-11)]]
+- [[#Mouvement 3:  La première conversation (l.12-13)|Mouvement 3:  La première conversation (l.12-13)]]
+- [[#Mouvement 4: Le "coup de foudre" (l.24-fin)|Mouvement 4: Le "coup de foudre" (l.24-fin)]]
+
+**Problématique:** En quoi cette scène se joue-t-elle des codes du topos de la première rencontre ?
+
+### Introduction
+
+Prosper Mérimée (1803-1870), écrivain français du XIXe siècle, est notamment célèbre pour son novella Carmen, publié en 1845. Cette œuvre majeure du romantisme raconte la passion dévorante d'un officier français pour une bohémienne séduisante et indépendante. L'extrait choisi relate la première rencontre entre le narrateur et Carmen, établissant d'emblée l'irrésistible attrait qu'elle exerce sur lui. Dès les premiers mots, son apparition soudaine et provocante est décrite (Mouvement 1 l.1-3), suivie d'un portrait détaillé mettant en avant ses charmes de tentatrice (Mouvement 2 l.4-11). S'ensuit une première conversation désinvolte (Mouvement 3 l.12-13), avant que le narrateur ne succombe littéralement à son charme (Mouvement 4 l.24-fin). En quoi cette scène se joue-t-elle des codes du topos de la première rencontre ? Nous verrons que l'apparition de Carmen renverse les conventions (Mouvement 1), que son portrait la désigne comme une femme fatale (Mouvement 2), que son audace déstabilise le narrateur (Mouvement 3), préfigurant le coup de foudre unilatéral à venir (Mouvement 4).
+
+### Mouvement 1: L'apparition de Carmen (l.1-3)
 
 
 | Citation                                                                                      | Procédés                                                                 | Interpretation                                       |
@@ -29,7 +41,7 @@ Et prenant la fleur de cassie qu’elle avait à la bouche, <mark style="backgro
 | <mark style="background: #BBFABBA6;">cette Carmen que vous connaissez,</mark>                 | Déterminant démonstratif, proposition subordonner relative               | Montre que la narrateur connais le personnage        |
 **Conclusion 1er:** Apparition attendue, brève et apparition décisive
 
-#### Mouvement 2
+### Mouvement 2: Le portrait d'une tentatrice (l.4-11)
 
 
 | Citation                                                                                                                                                                                       | Procédés                          | Interpretation                                            |
@@ -41,7 +53,7 @@ Et prenant la fleur de cassie qu’elle avait à la bouche, <mark style="backgro
 | <mark style="background: #FFB86CA6;">fort court</mark>                                                                                                                                         | Adverbe d'intensitée              | Vient renforcer le terme provocatrice                     |
 **Conclusion 2:** Portrait de Carmen qui a une allure et une attitude provocatrice et séductrice mais aussi le caractère diabolique et inquiétant
 
-#### Mouvement 4
+### Mouvement 3:  La première conversation (l.12-13)
 
 
 | Citation                                                                                                          | Procédés                                                        | Interpretation                                                                                    |
@@ -61,7 +73,7 @@ Et prenant la fleur de cassie qu’elle avait à la bouche, <mark style="backgro
 | Allons, Fait-moi                                                                                                  | Impératif présent, tutoiement                                   | Elle à de l'ascendant sur Don José                                                                |
 **Conclusion 3:** Carmen est très alaise, elle est ascendant à Don José, elle mène les chose
 
-#### Mouvement 4
+### Mouvement 4: Le "coup de foudre" (l.24-fin)
 
 | Citation                                                                            | Procédés                                                                                   | Interpretation                                                                                      |
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
