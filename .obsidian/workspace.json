@@ -25,19 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "El 3 Postambule DDFC.md",
+                "file": "El 6 Perfide Manon.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "47109937b689386f",
+            "id": "6d79fb412f0a24de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Oral 2eme partie.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Oral 2eme partie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Oral 2eme partie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Oral 2eme partie.md"
               }
             }
           },
@@ -181,15 +181,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "47109937b689386f",
+  "active": "6d79fb412f0a24de",
   "lastOpenFiles": [
-    "El 10 Entrée en scène de Thomas Diafoirus.md",
+    "El 6 Perfide Manon.md",
+    "Oral 2eme partie.md",
     "EL 5 Incipit.md",
     "EL 4 Candide.md",
-    "conflict-files-obsidian-git.md",
     "El 3 Postambule DDFC.md",
+    "EL 2 Préambule DDFC.md",
+    "EL 1 Olympe de Gouges.md",
+    "conflict-files-obsidian-git.md",
+    "El 10 Entrée en scène de Thomas Diafoirus.md",
     "Molière.md",
-    "El 6 Perfide Manon.md",
     "El 7 La mort de Manon.md",
     "El 8 Carmen de mérimée.md",
     "EL 9 Le Malade Imaginaire Sc1 Act1.md",
@@ -198,8 +201,6 @@
     "Olympe de Gouges.md",
     "fichier à la con.md",
     "EL Candide.md",
-    "EL 2 Préambule DDFC.md",
-    "EL 1 Olympe de Gouges.md",
     "PDF/El 3 Postambule DDFC.pdf",
     "README.md",
     "github/img/Capture d'écran 2024-03-22 195905.png",

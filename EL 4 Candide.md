@@ -40,14 +40,14 @@ Voltaire (1694-1778), philosophe des Lumières et fervent critique de l'ordre é
 ### Mouvement 2: Misère intellectuelle
 
 
-| Citations                                                                                                                         | Procédés                            | Interprétations                                                                             |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------- |
-| <mark style="background: #FFB8EBA6;">Mon cher enfant, bénis \[...] ta mère.</mark>                                                | Discourt directe                    | Montre qu'elle n'as pas l'intelligence pour avoir un esprit critique.                       |
-| ^^                                                                                                                                | ^^                                  | Donne plus de vie au parole de la mère                                                      |
-| <mark style="background: #FF5582A6;"> Hélas! je ne sais pas si j'ai fait leur fortune, mais ils n'ont pas fait la mienne. </mark> | Paradowe avec les parole de la mère | Montre une naïveté inconsciente de la mère                                                  |
-| **adore-les**                                                                                                                     | Verbe à l'impératif                 | Ordre insitant à aller au "bourreau"                                                        |
-| <mark style="background: #FFB86CA6;">son nègre</mark>                                                                             | Possésif                            | Il participe à l'esclavagisme                                                               |
-| ==Les chiens, les singes et les perroquets sont mille fois moins malheureux que nous==                                            | Énumération, hyperbole              | Montre la trahison par ces parents. Signifie que les noir entretien le système esclavagisme |
+| Citations                                                                                                                        | Procédés                            | Interprétations                                                                             |
+| -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------- |
+| <mark style="background: #FFB8EBA6;">Mon cher enfant, bénis \[...] ta mère.</mark>                                               | Discourt directe                    | Montre qu'elle n'as pas l'intelligence pour avoir un esprit critique.                       |
+| ^^                                                                                                                               | ^^                                  | Donne plus de vie au parole de la mère                                                      |
+| <mark style="background: #FF5582A6;">Hélas! je ne sais pas si j'ai fait leur fortune, mais ils n'ont pas fait la mienne. </mark> | Paradowe avec les parole de la mère | Montre une naïveté inconsciente de la mère                                                  |
+| **adore-les**                                                                                                                    | Verbe à l'impératif                 | Ordre insitant à aller au "bourreau"                                                        |
+| <mark style="background: #FFB86CA6;">son nègre</mark>                                                                            | Possésif                            | Il participe à l'esclavagisme                                                               |
+| ==Les chiens, les singes et les perroquets sont mille fois moins malheureux que nous==                                           | Énumération, hyperbole              | Montre la trahison par ces parents. Signifie que les noir entretien le système esclavagisme |
 
 ### Mouvement 3: La dénonciation des organisation
 

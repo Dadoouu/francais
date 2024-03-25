@@ -92,6 +92,6 @@ Olympe de Gouges, figure pionnière de la lutte pour les droits des femmes, publ
 | <mark style="background: #FFF3A3A6;">les Droits suivants de la Femme et de la Citoyenne</mark> | GN                               | Annonce les 17 article                            |
 **Conclusion 3:** Dans ce 3eme mouvement, Olympe de Gouge rappelle l'objectif argumentatif tout en valorisant les femme.
 
-	### Conclusion
+### Conclusion
 
 Dans ce texte nous avons vu que le 1er mouvement ancre le texte dans sont contexte d'énonciation. Le 2eme mouvement permet d'annoncer les 3 but de la déclaration ainsi que de justifier ça création comme une démarche solennelle visant l'égalité. Et le 3eme mouvement rappelle l'objectif du texte tout en faisant l'éloge de la femme.
