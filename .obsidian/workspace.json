@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e0528a366be5323f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "El 3 Postambule DDFC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "El 3 Postambule DDFC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "El 3 Postambule DDFC.md"
               }
             }
           },
@@ -181,10 +169,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e0528a366be5323f",
+  "active": "5841fab51e3729c5",
   "lastOpenFiles": [
-    "El 3 Postambule DDFC.md",
     "conflict-files-obsidian-git.md",
+    "El 3 Postambule DDFC.md",
     "EL 4 Candide.md",
     "El 6 Perfide Manon.md",
     "El 7 La mort de Manon.md",
