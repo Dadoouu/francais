@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "47109937b689386f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "El 3 Postambule DDFC.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "El 3 Postambule DDFC.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "El 3 Postambule DDFC.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -169,11 +181,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5841fab51e3729c5",
+  "active": "47109937b689386f",
   "lastOpenFiles": [
+    "El 10 Entrée en scène de Thomas Diafoirus.md",
+    "EL 5 Incipit.md",
+    "EL 4 Candide.md",
     "conflict-files-obsidian-git.md",
     "El 3 Postambule DDFC.md",
-    "EL 4 Candide.md",
+    "Molière.md",
     "El 6 Perfide Manon.md",
     "El 7 La mort de Manon.md",
     "El 8 Carmen de mérimée.md",
