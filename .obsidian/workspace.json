@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "eac9d30488401ac7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EL 4 Candide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6d79fb412f0a24de",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,10 +181,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7b439878e5b2ad9",
+  "active": "eac9d30488401ac7",
   "lastOpenFiles": [
+    "El 3 Postambule DDFC.md",
     "EL 2 Préambule DDFC.md",
     "EL 1 Olympe de Gouges.md",
+    "EL 4 Candide.md",
     "PDF/EL Candide.pdf",
     "El 6 Perfide Manon.md",
     "2024-03-18.md",
@@ -182,8 +197,6 @@
     "El 10 Entrée en scène de Thomas Diafoirus.md",
     "PDF/EL 1 Olympe de Gouges.pdf",
     "EL 5 Incipit.md",
-    "EL 4 Candide.md",
-    "El 3 Postambule DDFC.md",
     "PDF/El 6 Perfide Manon.pdf",
     "conflict-files-obsidian-git.md",
     "El 7 La mort de Manon.md",
