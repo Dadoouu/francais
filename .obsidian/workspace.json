@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "El 6 Perfide Manon.md",
+                "file": "EL 4 Candide.md",
                 "mode": "preview",
                 "source": false
               }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oral 2eme partie.md",
-                "mode": "source",
+                "file": "EL 1 Olympe de Gouges.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "53a98dc6ddf3cebc",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oral 2eme partie.md",
+                "file": "EL 4 Candide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oral 2eme partie.md",
+                "file": "EL 4 Candide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oral 2eme partie.md"
+                "file": "EL 4 Candide.md"
               }
             }
           },
@@ -181,15 +182,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6d79fb412f0a24de",
+  "active": "5841fab51e3729c5",
   "lastOpenFiles": [
+    "El 3 Postambule DDFC.md",
+    "EL 2 Préambule DDFC.md",
+    "EL 1 Olympe de Gouges.md",
+    "PDF/El 6 Perfide Manon.pdf",
     "El 6 Perfide Manon.md",
     "Oral 2eme partie.md",
     "EL 5 Incipit.md",
     "EL 4 Candide.md",
-    "El 3 Postambule DDFC.md",
-    "EL 2 Préambule DDFC.md",
-    "EL 1 Olympe de Gouges.md",
     "conflict-files-obsidian-git.md",
     "El 10 Entrée en scène de Thomas Diafoirus.md",
     "Molière.md",
@@ -209,7 +211,6 @@
     "PDF/EL 9 Le Malade Imaginaire Sc1 Act1.pdf",
     "PDF/El 8 Carmen de mérimée.pdf",
     "PDF/El 7 La mort de Manon.pdf",
-    "PDF/El 6 Perfide Manon.pdf",
     "PDF/EL 2 Préambule DDFC.pdf",
     "PDF/El 2 Postambule DDFC.pdf",
     "PDF/EL 1 Olympe de Gouges.pdf",
