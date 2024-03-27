@@ -31,7 +31,7 @@ Molière, de son vrai nom Jean-Baptiste Poquelin, était un dramaturge et coméd
 - [[#Mouvement 3: La réaction des autre personnage|Mouvement 3: La réaction des autre personnage]]
 
 
-**Problématique:** Comment Thomas DIAFOIRUS fait-il l'objet d'une double dénionciation
+**Problématique:** Comment Thomas DIAFOIRUS fait-il l'objet d'une double dénonciation
 
 ### Introduction
 

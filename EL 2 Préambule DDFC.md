@@ -16,7 +16,7 @@ En <mark style="background: #FFB8EBA6;">conséquence</mark> <mark style="backgro
 - [[#Mouvement 2: L'exposition des cause et des but (l.3-11)|Mouvement 2: L'exposition des cause et des but (l.3-11)]]
 	- [[#Mouvement 2: L'exposition des cause et des but (l.3-11)#1.Le fait de l'inégalité des sexes = disfonctionnement actuelle.|1.Le fait de l'inégalité des sexes = disfonctionnement actuelle.]]
 	- [[#Mouvement 2: L'exposition des cause et des but (l.3-11)#2. La requête.|2. La requête.]]
-	- [[#Mouvement 2: L'exposition des cause et des but (l.3-11)#3. L'énumération du tripe but de la déclaration|3. L'énumération du tripe but de la déclaration]]
+	- [[#Mouvement 2: L'exposition des cause et des but (l.3-11)#3. L'énumération du triple but de la déclaration|3. L'énumération du triple but de la déclaration]]
 		- [[#3. L'énumération du tripe but de la déclaration#3.a|3.a]]
 		- [[#3. L'énumération du tripe but de la déclaration#3.b|3.b]]
 		- [[#3. L'énumération du tripe but de la déclaration#3.c|3.c]]
@@ -49,14 +49,14 @@ Olympe de Gouges, figure pionnière de la lutte pour les droits des femmes, publ
 
 | Citation                                                                           | Procédés                                                       | Interprétation                                                                                 |
 | ---------------------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| <mark style="background: #FFB8EBA6;">Considérant que</mark>                        | L'locution conjonctive                                         | Précède l'exposition des cause du disfonctionnement                                            |
+| <mark style="background: #FFB8EBA6;">Considérant que</mark>                        | Locution conjonctive                                           | Précède l'exposition des cause du disfonctionnement                                            |
 | <mark style="background: #FF5582A6;">l'ignorance, l'oubli ou le mépris, ...</mark> | Enumération, gradation sur rythme tertiaire de terme péjoratif | Etablie une corrélation entre le mépris envers le femme et la corruption morale de la sociétée |
 #### 2. La requête.
 
 | Citation                                                                     | Procédés                                                                                   | Interprétation                                                                                          |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
 | <mark style="background: #FFB8EBA6;">naturels, inaliénables et sacrés</mark> | Enumération sur rythme tertiaire de terme mélioratif qui caractérise les droits des femmes | Droit naturels : fondamentale</br></br>Inaliénables: Eternel, inviolable</br></br>Sacrés: D'ordre divin |
-#### 3. L'énumération du tripe but de la déclaration
+#### 3. L'énumération du triple but de la déclaration
 
 ##### 3.a
 

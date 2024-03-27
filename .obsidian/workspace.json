@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "El 6 Perfide Manon.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5841fab51e3729c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "EL 4 Candide.md",
                 "mode": "preview",
                 "source": false
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "53a98dc6ddf3cebc",
@@ -182,38 +168,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5841fab51e3729c5",
+  "active": "f7b439878e5b2ad9",
   "lastOpenFiles": [
-    "El 3 Postambule DDFC.md",
     "EL 2 Préambule DDFC.md",
     "EL 1 Olympe de Gouges.md",
-    "PDF/El 6 Perfide Manon.pdf",
+    "PDF/EL Candide.pdf",
     "El 6 Perfide Manon.md",
+    "2024-03-18.md",
     "Oral 2eme partie.md",
+    "Molière.md",
+    "L'Abbé Prévost.md",
+    "El 8 Carmen de mérimée.md",
+    "El 10 Entrée en scène de Thomas Diafoirus.md",
+    "PDF/EL 1 Olympe de Gouges.pdf",
     "EL 5 Incipit.md",
     "EL 4 Candide.md",
+    "El 3 Postambule DDFC.md",
+    "PDF/El 6 Perfide Manon.pdf",
     "conflict-files-obsidian-git.md",
-    "El 10 Entrée en scène de Thomas Diafoirus.md",
-    "Molière.md",
     "El 7 La mort de Manon.md",
-    "El 8 Carmen de mérimée.md",
     "EL 9 Le Malade Imaginaire Sc1 Act1.md",
     "El 10 La mort d'Argan.md",
-    "L'Abbé Prévost.md",
     "Olympe de Gouges.md",
     "fichier à la con.md",
     "EL Candide.md",
     "PDF/El 3 Postambule DDFC.pdf",
     "README.md",
     "github/img/Capture d'écran 2024-03-22 195905.png",
-    "PDF/EL Candide.pdf",
     "PDF/El 10 La mort d'Argan.pdf",
     "PDF/EL 9 Le Malade Imaginaire Sc1 Act1.pdf",
     "PDF/El 8 Carmen de mérimée.pdf",
     "PDF/El 7 La mort de Manon.pdf",
     "PDF/EL 2 Préambule DDFC.pdf",
     "PDF/El 2 Postambule DDFC.pdf",
-    "PDF/EL 1 Olympe de Gouges.pdf",
     "github/img/Capture d'écran 2024-03-22 194847.png",
     "github/img/Capture d'écran 2024-03-22 194838.png",
     "github/img/Capture d'écran 2024-03-22 194449.png",
