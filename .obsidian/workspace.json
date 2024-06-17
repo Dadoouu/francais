@@ -4,37 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "df6a6af517072d8b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5d843303f492b0f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "L'Abbé Prévost.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68088c076de53b00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "processed/El 10 Entrée en scène de Thomas Diafoirus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "8d12f2014cb3f852",
         "type": "tabs",
         "children": [
@@ -49,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f98b2df22bb87b1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "El 12 Act II, Sc 1 - Knock ou le triomphe de la médecine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e823da3dd89e7bf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "El 13 Venus Anadyomène.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69225aab3bb1a6ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "El 14 Le dormeur du Val.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f31735890cdd1ca6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "El 15 Ma Bohême.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -116,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "El 11 Act III, Sc 12.md",
+                "file": "El 15 Ma Bohême.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "El 11 Act III, Sc 12.md",
+                "file": "El 15 Ma Bohême.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "El 11 Act III, Sc 12.md"
+                "file": "El 15 Ma Bohême.md"
               }
             }
           },
@@ -187,10 +205,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6ebf6fa8a984cbe2",
+  "active": "f31735890cdd1ca6",
   "lastOpenFiles": [
-    "processed/El 10 Entrée en scène de Thomas Diafoirus.md",
+    "El 13 Venus Anadyomène.md",
+    "El 14 Le dormeur du Val.md",
+    "El 15 Ma Bohême.md",
+    "El 12 Act II, Sc 1 - Knock ou le triomphe de la médecine.md",
     "El 11 Act III, Sc 12.md",
+    "processed/El 10 Entrée en scène de Thomas Diafoirus.md",
     "processed/EL 9 Le Malade Imaginaire Sc1 Act1.md",
     "processed/El 8 Carmen de mérimée.md",
     "processed/El 6 Perfide Manon.md",
@@ -219,10 +241,6 @@
     "Olympe de Gouges.md",
     "El 10 Entrée en scène de Thomas Diafoirus.md",
     "EL 9 Le Malade Imaginaire Sc1 Act1.md",
-    "El 8 Carmen de mérimée.md",
-    "EL 5 Incipit.md",
-    "El 7 La mort de Manon.md",
-    "EL 4 Candide.md",
     "PDF/El 3 Postambule DDFC.pdf",
     "github/img/Capture d'écran 2024-03-22 195905.png",
     "PDF/EL Candide.pdf",
