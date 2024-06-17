@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "processed/EL 5 Incipit.md",
+                "file": "processed/El 10 Entrée en scène de Thomas Diafoirus.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,6 +33,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "8d12f2014cb3f852",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ebf6fa8a984cbe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "El 11 Act III, Sc 12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "processed/EL 5 Incipit.md",
+                "file": "El 11 Act III, Sc 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "processed/EL 5 Incipit.md",
+                "file": "El 11 Act III, Sc 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "processed/EL 5 Incipit.md"
+                "file": "El 11 Act III, Sc 12.md"
               }
             }
           },
@@ -169,21 +187,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68088c076de53b00",
+  "active": "6ebf6fa8a984cbe2",
   "lastOpenFiles": [
     "processed/El 10 Entrée en scène de Thomas Diafoirus.md",
-    "processed/L'Abbé Prévost.md",
-    "processed/Olympe de Gouges.md",
+    "El 11 Act III, Sc 12.md",
     "processed/EL 9 Le Malade Imaginaire Sc1 Act1.md",
     "processed/El 8 Carmen de mérimée.md",
-    "processed/El 7 La mort de Manon.md",
     "processed/El 6 Perfide Manon.md",
-    "El 6 Perfide Manon.md",
-    "processed/EL 5 Incipit.md",
+    "processed/El 7 La mort de Manon.md",
     "processed/EL 4 Candide.md",
     "processed/El 3 Postambule DDFC.md",
     "processed/EL 2 Préambule DDFC.md",
     "processed/EL 1 Olympe de Gouges.md",
+    "processed/EL 5 Incipit.md",
+    "processed/L'Abbé Prévost.md",
+    "processed/Olympe de Gouges.md",
+    "El 6 Perfide Manon.md",
     "EL 1 Olympe de Gouges.md",
     "processed/README.md",
     "processed/Oral 2eme partie.md",
