@@ -1,0 +1,4 @@
+#### Contextualisation auteur :
+L'Abbé Prévost était un avocat du 18ème siècle ayant énormément voyagé à travers le monde, il était un écrivain polygraphe et prolixe.
+#### Contextualisation œuvre :
+Le titre exacte de son œuvre est "L'histoire du Chevalier de Grieux et de Manon Lescaut" parut en 1731, s'imbrique dans une œuvre vaste nommé "Mémoires et aventures d'un homme de qualité". L'histoire narré dans Manon Lescaut se déroule au début du 18ème siècle, après la mort de Louis 14, lorsque Philippes d'Orléans assure la régence jusqu'au couronnement de Louis 15. Le roman fut changé et censuré en raison de sont contenu jugé immoral.
