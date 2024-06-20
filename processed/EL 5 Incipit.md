@@ -1,6 +1,4 @@
 
-Bien sûr, je vais structurer l'analyse comme suit :
-
 ### Introduction
 
 L'abbé Prévost (1697-1763), écrivain français du XVIIIe siècle, est renommé pour ses récits où le réalisme se mêle à la littérature libertine. "Manon Lescaut" (1731) est l'un de ses chefs-d'œuvre, relatant l'histoire tumultueuse entre le Chevalier Des Grieux et Manon Lescaut. L'extrait choisi relate la première rencontre entre ces deux personnages, une rencontre qui va sceller leur destin tragique. La problématique centrale de cette analyse est : **En quoi cette rencontre particulièrement romanesque annonce déjà l'issue tragique du récit ?** Pour répondre à cette question, nous examinerons d'abord l'atmosphère de prédestination et d'innocence perdue (l.1-5), puis nous analyserons la description envoûtante de Manon (l.5-15) et enfin, nous étudierons la prophétie implicite des futurs malheurs (l.15-fin).
