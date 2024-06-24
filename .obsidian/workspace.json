@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "processed/El 6 Perfide Manon.md",
+                "file": "processed/El 13 Venus Anadyomène.md",
                 "mode": "preview",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "processed/El 6 Perfide Manon.md",
+                "file": "processed/El 13 Venus Anadyomène.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "processed/El 6 Perfide Manon.md",
+                "file": "processed/El 13 Venus Anadyomène.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "processed/El 6 Perfide Manon.md"
+                "file": "processed/El 13 Venus Anadyomène.md"
               }
             }
           },
@@ -207,13 +207,15 @@
   },
   "active": "f31735890cdd1ca6",
   "lastOpenFiles": [
+    "processed/El 14 Le dormeur du Val.md",
+    "processed/El 15 Ma Bohême.md",
+    "processed/EL 1 Olympe de Gouges.md",
+    "processed/El 6 Perfide Manon.md",
     "processed/El 7 La mort de Manon.md",
     "processed/El 8 Carmen de mérimée.md",
     "processed/EL 9 Le Malade Imaginaire Sc1 Act1.md",
     "processed/El 10 Entrée en scène de Thomas Diafoirus.md",
-    "processed/El 14 Le dormeur du Val.md",
     "EL15 Ma Bohème.md",
-    "processed/El 15 Ma Bohême.md",
     "PDF/Update/El 15 Ma Bohême.pdf",
     "PDF/Update/El 14 Le dormeur du Val.pdf",
     "processed/El 13 Venus Anadyomène.md",
@@ -226,13 +228,11 @@
     "PDF/Update/EL 9 Le Malade Imaginaire Sc1 Act1.pdf",
     "PDF/Update/El 8 Carmen de mérimée.pdf",
     "PDF/Update/El 7 La mort de Manon.pdf",
-    "processed/El 6 Perfide Manon.md",
     "PDF/Update/El 6 Perfide Manon.pdf",
     "processed/EL 5 Incipit.md",
     "processed/EL 4 Candide.md",
     "processed/El 3 Postambule DDFC.md",
     "processed/EL 2 Préambule DDFC.md",
-    "processed/EL 1 Olympe de Gouges.md",
     "processed/README.md",
     "processed/Olympe de Gouges.md",
     "processed/Oral 2eme partie.md",
